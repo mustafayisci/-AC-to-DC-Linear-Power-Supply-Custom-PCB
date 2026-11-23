@@ -31,3 +31,19 @@ The single-layer FR4 board was fabricated in-house using **Positiv 20** photores
 | Fabricated PCB | Lab Test Setup |
 | :---: | :---: |
 | ![Final PCB](images/pcb_final.jpg) | ![Lab Test](images/lab_test.jpg) |
+
+## 📂 Repository Structure
+
+```text
+├── docs/
+│   └── EE101_Project_Report.pdf    # Full technical report
+├── kicad/
+│   ├── schematic.kicad_sch         # KiCad schematic file
+│   └── layout.kicad_pcb            # KiCad PCB layout file
+├── images/
+│   ├── schematic.png
+│   ├── pcb_layout.png
+│   ├── ltspice_sim.png
+│   ├── pcb_final.jpg
+│   └── lab_test.jpg
+└── README.md
