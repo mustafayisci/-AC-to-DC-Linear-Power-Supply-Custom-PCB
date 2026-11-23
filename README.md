@@ -30,7 +30,7 @@ The single-layer FR4 board was fabricated in-house using **Positiv 20** photores
 
 | Fabricated PCB | Lab Test Setup |
 | :---: | :---: |
-| ![Final PCB](images/pcb_final.jpg) | ![Lab Test](images/lab_test.jpg) |
+| ![Final PCB](images/pcb_final.jpeg) | ![Lab Test](images/lab_test.jpeg) |
 
 ## 📂 Repository Structure
 
