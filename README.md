@@ -14,7 +14,7 @@ A custom single-layer PCB power supply designed, simulated, fabricated, and test
 
 | Circuit Schematic (KiCad) | Transient Simulation (LTspice) |
 | :---: | :---: |
-| ![Schematic](images/schematic.png) | ![LTspice](images/ltspice_sim.png) |
+| ![Schematic](images/schematics.png) | ![LTspice](images/ltspice_sim.png) |
 
 ---
 
